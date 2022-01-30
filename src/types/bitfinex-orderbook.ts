@@ -1,0 +1,1 @@
+export type BitFinexOrderbook = [number, number, number]
