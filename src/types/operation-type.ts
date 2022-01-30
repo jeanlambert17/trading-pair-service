@@ -1,1 +1,4 @@
-export type OperationType = 'buy' | 'sell'
+export enum OperationType {
+  Buy = 'buy',
+  Sell = 'sell'
+}

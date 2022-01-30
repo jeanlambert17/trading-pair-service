@@ -1,4 +1,4 @@
 export enum AvailableTradingPairs {
-  'ETH-USD' = 'ETH-USD',
-  'BTC-USD' = 'BTC-USD'
+  ETH_USD = 'ETH-USD',
+  BTC_USD = 'BTC-USD'
 }
