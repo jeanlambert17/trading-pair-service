@@ -1,4 +1,6 @@
-## RatherLabs NodeJS test
+## Trading pair service
+
+The Trading Pair Data API is designed to provide historical market data for cryptocurrency or financial trading platforms. It delivers comprehensive information on trading pairs, including order book details and ticker info, to power analytics, trading strategies, and market insights for users or connected applications.
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
